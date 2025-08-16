@@ -17,11 +17,76 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ```
 DSA-Playground/
 │
-├── DataStructures/      # Implementations + Notes + Problems
-├── Algorithms/          # Sorting, Searching, Graph, DP...
-├── ProblemSolving/      # Easy / Medium / Hard problems
-├── MiniProjects/        # Small projects applying DSA/Algo
-└── Notes/               # Summaries + Cheatsheets + Interview Tips
+├── DataStructures/          # Implementations + Notes + Problems
+│   ├── Arrays/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── LinkedLists/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── Stacks/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── Queues/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── Trees/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── Graphs/
+│   │   ├── C/
+│   │   └── C++/
+│   └── HashTables/
+│       ├── C/
+│       └── C++/
+│
+├── Algorithms/              # Sorting, Searching, Graph, DP...
+│   ├── Sorting/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── Searching/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── DynamicProgramming/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── Greedy/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── GraphAlgorithms/
+│   │   ├── C/
+│   │   └── C++/
+│   └── Backtracking/
+│       ├── C/
+│       └── C++/
+│
+├── ProblemSolving/          # Easy / Medium / Hard problems
+│   ├── Easy/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── Medium/
+│   │   ├── C/
+│   │   └── C++/
+│   └── Hard/
+│       ├── C/
+│       └── C++/
+│
+├── MiniProjects/            # Small projects applying DSA/Algo
+│   ├── Project1/
+│   │   ├── C/
+│   │   └── C++/
+│   ├── Project2/
+│   │   ├── C/
+│   │   └── C++/
+│   └── Project3/
+│       ├── C/
+│       └── C++/
+│
+└── Notes/                   # Summaries + Cheatsheets + Interview Tips
+    ├── Summaries/
+    ├── Cheatsheets/
+    └── InterviewTips/
+
 ```
 
 ---
